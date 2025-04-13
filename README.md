@@ -1,6 +1,6 @@
 # loginForm
 
-A simple C++ command-line based login system that allows users to **Sign Up**, **Log In**, and **Recover Passwords**. User credentials are securely (but not encrypted) stored in a local file using basic file I/O.
+A simple C++ command-line based login system that allows users to **Sign Up**, **Log In**, and **Recover Passwords**. User credentials are securely (but not encrypted) stored in a local file using basic file I/O. Made in CLion
 
 ## 🚀 Features
 
@@ -30,9 +30,6 @@ A simple C++ command-line based login system that allows users to **Sign Up**, *
 
 loginform/ │ ├── loginData.txt # Stores user credentials ├── main.cpp # Source code for the login system └── README.md # Documentation
 
-bash
-Copy
-Edit
 
 ## ▶️ How to Run
 
@@ -55,24 +52,5 @@ Edit
 ⚠️ Disclaimer
 This project is for educational purposes only. User credentials are stored as plain text in a file, making it insecure for real-world applications.
 
-✅ Future Improvements
-Implement password hashing (e.g., SHA256)
-
-Add input validation and formatting
-
-Prevent duplicate usernames or emails
-
-Switch to a more secure storage option (e.g., encrypted file or database)
-
-Create a GUI version using libraries like Qt or JavaFX
-
 👤 Author
-Created by Imani Dinkins
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you’d like a `.gitignore` or want help uploading it to GitHub!
+Created by Imani Dinkins 
